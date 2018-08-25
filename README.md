@@ -1,7 +1,8 @@
 # Java Basis Algorithm, Datastructure
 
-## DataStructure
+# DataStructure
 
-## Algorithm
-비밀지도
-다트게임
+# Algorithm
+
+비밀지도[code](https://github.com/minwan1/java-algorithm/blob/master/src/test/java/algorithm/DartGameTest.java)
+다트게임[code](https://github.com/minwan1/java-algorithm/blob/master/src/test/java/algorithm/SecretMapTest.java)
