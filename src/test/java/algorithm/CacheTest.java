@@ -64,7 +64,7 @@ public class CacheTest {
 
             if(value != null){
                 hitCount++;
-                value = map.put(city, city);
+                map.put(city, city);
             }else{
                 missCount++;
                 map.put(city, city);
